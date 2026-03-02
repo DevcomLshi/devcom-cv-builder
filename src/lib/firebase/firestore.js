@@ -1,2 +1,2 @@
-﻿// Placeholder pour la couche Firestore Firebase.
-export {};
+// Firestore helpers will live here after firebase is added to the project.
+export {}

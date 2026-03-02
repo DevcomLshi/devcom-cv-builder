@@ -1,2 +1,2 @@
-﻿// Placeholder pour la couche Auth Firebase.
-export {};
+// Firebase auth helpers will live here after firebase is added to the project.
+export {}
